@@ -102,6 +102,8 @@ align-items: center;
 
 .underline {
   width: 30%;
+  margin-bottom: 2vh;
+
 }
 
 .skill-content {
@@ -125,6 +127,76 @@ align-items: center;
   flex-direction: column;
   gap: 2vh;
   margin-top: 5vh;
+}
+
+.third .header {
+  font-size: 24px;
+}
+.third{
+  height: 70vh;
+}
+
+.edu{
+  display: block;
+  height: 70vh;
+
+}
+
+.underline1 {
+  width: 30%;
+  margin-bottom: 2vh;
+
+}
+
+.edu-card {
+  width: 80%;
+  margin: 0 auto 3vh auto;
+}
+
+.edu-card-part1 {
+  font-size: 18px;
+}
+
+.edu-card-part2-1 {
+  font-size: 20px;
+}
+
+.edu-card-part2-2 {
+  font-size: 16px;
+}
+.fourth{
+  display: block;
+  height: 180vh;
+}
+.project-left-img-part2 img{
+  height: 0px;
+  width:0px ;
+}
+@keyframes man {
+  from {
+      transform: translateX(0vh);
+  }
+
+  to {
+      transform: translateX(0vh);
+
+  }
+
+}
+
+.project-right{
+  width: 100%;
+}
+.project-cards{
+  width: 80vw;
+  margin-bottom: 2vh;
+}
+.project-cards-part1 img{
+        width: 80vw;
+}
+project-card-part2 img{
+  height: 8vh;
+  width: 13vw;
 }
 
 }
