@@ -87,7 +87,7 @@ align-items: center;
 }
 .arrow img {
   height: 5vh;
-  bottom: 3vh;
+  bottom: 0vh;
 }
 .arrow{
   height: 10vh;
@@ -170,7 +170,7 @@ align-items: center;
 }
 .fourth{
   display: block;
-  height: 180vh;
+  height: 190vh;
 }
 .project-left-img-part2 img{
   height: 0px;
@@ -193,7 +193,7 @@ align-items: center;
 }
 .project-cards{
   width: 80vw;
-  margin-bottom: 2vh;
+  margin-bottom: 4vh;
 }
 .project-cards-part1 img{
         width: 80vw;
@@ -204,5 +204,14 @@ align-items: center;
 
 }
 
+.project-underline{
+  width: 50%;
 }
+
+.services-underline{
+  width: 100%;
+}
+
+}
+
 
