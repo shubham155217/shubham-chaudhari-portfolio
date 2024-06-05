@@ -33,6 +33,7 @@ align-items: center;
     margin-top: 2vh;
     flex-direction: column;
     align-items: flex-start;
+    height: 90vh;
 }
 
 .about-left-container, .img-right-container {
@@ -90,7 +91,7 @@ align-items: center;
   bottom: 0vh;
 }
 .arrow{
-  height: 10vh;
+  height: 20vh;
 }
 
 .second {
@@ -99,7 +100,7 @@ align-items: center;
 }
 
 .header {
-  height: auto;
+  height: 10vh;
   font-size: 24px;
 }
 
@@ -130,6 +131,9 @@ align-items: center;
   flex-direction: column;
   gap: 2vh;
   margin-top: 5vh;
+}
+.skill-content{
+  height: 5vh;
 }
 
 .third .header {
@@ -209,6 +213,24 @@ align-items: center;
 }
 
 .services-underline{
+  width: 100%;
+}
+
+.fifth{
+  height: 145vh;
+}
+.services-1{
+  height:125vh;
+  width: 80%;
+  display: block;
+
+
+}
+.services-card{
+  width: 100%;
+   margin-bottom: 3vh;
+}
+.services-card img{
   width: 100%;
 }
 
