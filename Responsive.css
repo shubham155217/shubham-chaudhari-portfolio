@@ -220,7 +220,7 @@ align-items: center;
 }
 
 .fifth{
-  height: 145vh;
+  height: 155vh
 }
 .services-1{
   height:125vh;
@@ -249,7 +249,7 @@ align-items: center;
   font-size: 40px;
 }
 .contact-head-info{
-  height: 20vh;
+  height: 22vh;
   font-size: 25px;
 }
 .contact-info{
@@ -269,7 +269,7 @@ align-items: center;
   
 }
 .info-div{
-  font-size: 14px;
+  font-size: 15px;
 }
 .contact-container{
   display: block;
@@ -291,7 +291,7 @@ align-items: center;
   height: 30vh;
 }
 .submit-btn{
-  width: 35vw;
+  width: 40vw;
   height: 6vh;
   font-size: 20px;
 }
@@ -301,7 +301,7 @@ align-items: center;
 }
 .copyright{
   text-align: center;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 }
