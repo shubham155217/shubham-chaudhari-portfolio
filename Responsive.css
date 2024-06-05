@@ -245,16 +245,17 @@ align-items: center;
   height: 230vh;
 }
 .contact-head{
-  height: 20vh;
+  height: 10vh;
+  font-size: 40px;
 }
 .contact-head-info{
-  height: 15vh;
+  height: 20vh;
 }
 .contact-info{
   width: 100vw;
 }
 .info-1{
-  height: 20vh;
+  height: 22vh;
   width: 100vw;
   font-size: 18px;
 }
@@ -264,6 +265,10 @@ align-items: center;
 
 .info-2{
   width: 100vw;
+  
+}
+.info-div{
+  font-size: 17px;
 }
 .contact-container{
   display: block;
@@ -294,6 +299,7 @@ align-items: center;
 }
 .copyright{
   text-align: center;
+  font-size: 18px;
 }
 
 }
