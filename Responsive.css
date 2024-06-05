@@ -149,7 +149,7 @@ align-items: center;
 }
 
 .edu-card {
-  width: 80%;
+  width: 90%;
   margin: 0 auto 3vh auto;
 }
 
@@ -194,9 +194,10 @@ align-items: center;
 .project-cards-part1 img{
         width: 80vw;
 }
-project-card-part2 img{
-  height: 8vh;
-  width: 13vw;
+.project-card-part2 img {
+  height: 7vh;
+  width: 6vw;
+
 }
 
 }
