@@ -89,6 +89,9 @@ align-items: center;
   height: 5vh;
   bottom: 3vh;
 }
+.arrow{
+  height: 10vh;
+}
 
 .second {
   height: auto;
@@ -133,7 +136,7 @@ align-items: center;
   font-size: 24px;
 }
 .third{
-  height: 70vh;
+  height: 100vh;
 }
 
 .edu{
@@ -143,13 +146,14 @@ align-items: center;
 }
 
 .underline1 {
-  width: 30%;
+  width: 40%;
   margin-bottom: 2vh;
 
 }
 
 .edu-card {
   width: 90%;
+  height: 40vh;
   margin: 0 auto 3vh auto;
 }
 
