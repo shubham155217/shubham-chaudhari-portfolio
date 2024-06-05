@@ -51,14 +51,17 @@ align-items: center;
     font-size: 2.5rem;
 }
 
+
 .div3 {
     font-size: 16px;
 }
 
 .resume-btn button {
-    display: block;
+    display: flex;
     margin: 10px auto;
-    font-size: 16px;
+    font-size: 20px;
+    width: 40vw;
+    text-align: center;
     
 }
 
@@ -100,7 +103,7 @@ align-items: center;
 }
 
 .header {
-  height: 10vh;
+  height: 6vh;
   font-size: 24px;
 }
 
@@ -232,6 +235,65 @@ align-items: center;
 }
 .services-card img{
   width: 100%;
+}
+.services-card-text{
+  font-size: 27px;
+  height: 8vh;
+}
+
+.contact{
+  height: 230vh;
+}
+.contact-head{
+  height: 20vh;
+}
+.contact-head-info{
+  height: 15vh;
+}
+.contact-info{
+  width: 100vw;
+}
+.info-1{
+  height: 20vh;
+  width: 100vw;
+  font-size: 18px;
+}
+.contact-info > .resume-btn{
+  width: 100vw;
+}
+
+.info-2{
+  width: 100vw;
+}
+.contact-container{
+  display: block;
+  overflow: visible;
+}
+
+.contact-container-left{
+  width: 100vw;
+}
+.contact-box{
+  width: 90%;
+}
+.name,.email{
+  width: 80vw;
+  height: 5vh;
+}
+.message{
+  width: 80vw;
+  height: 30vh;
+}
+.submit-btn{
+  width: 35vw;
+  height: 6vh;
+}
+.contact-container-right img{
+  width: 100vw;
+  height: 45vh;
+}
+.copyright{
+  text-align: center;
 }
 
 }
