@@ -245,11 +245,12 @@ align-items: center;
   height: 230vh;
 }
 .contact-head{
-  height: 10vh;
+  height: 14vh;
   font-size: 40px;
 }
 .contact-head-info{
   height: 20vh;
+  font-size: 25px;
 }
 .contact-info{
   width: 100vw;
@@ -268,7 +269,7 @@ align-items: center;
   
 }
 .info-div{
-  font-size: 15px;
+  font-size: 14px;
 }
 .contact-container{
   display: block;
@@ -292,6 +293,7 @@ align-items: center;
 .submit-btn{
   width: 35vw;
   height: 6vh;
+  font-size: 20px;
 }
 .contact-container-right img{
   width: 100vw;
@@ -299,7 +301,7 @@ align-items: center;
 }
 .copyright{
   text-align: center;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 }
